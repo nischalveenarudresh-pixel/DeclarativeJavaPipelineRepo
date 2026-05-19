@@ -6,7 +6,7 @@ pipeline{
 				sh ''' 
 					cd /home/ec2-user/workspace/JavaDemoJob
 					rm -rf java-demo-project
-					git clone https://github.com/rohithSN/java-demo-project.git
+					git clone https://github.com/nischalveenarudresh-pixel/java-demo-project.git
 				'''
 			}
 		}
